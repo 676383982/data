@@ -1,14 +1,14 @@
 {
     "licenses": [
         {
-            "user_key": "CUSTOMER-123-LICENSE-KEY",
-            "expiry": "2050-12-31",
-            "signature": "generated_sha256_hash_here"
+            "user_key": "CUSTOMER-123-KEY",
+            "expiry": "2025-12-31",
+            "signature": "a1b2c3... (generated hash)"
         },
         {
-            "user_key": "TEST-LICENSE-NEVER-EXPIRES",
+            "user_key": "TEST-KEY",
             "expiry": "",
-            "signature": "different_sha256_hash_here"
+            "signature": "d4e5f6... (generated hash)"
         }
     ]
 }
